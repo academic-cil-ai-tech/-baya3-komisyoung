@@ -17,6 +17,7 @@ To create a trusted local marketplace where the street vendor (trader) connects 
 - Commission zero from Baya3 only
 - Handling with Komisyoungy as quantity discount and marketing in Baya3
 - Platform for all: www.academic-cilai.com
+- THE ACADEMIC PLATFORM FOUNDER : WWW.ACADEMIC-AI.TECH
 
 ## Links
 ORCID: 0009-0007-0992-7821
